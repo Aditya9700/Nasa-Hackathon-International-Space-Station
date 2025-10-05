@@ -1,6 +1,6 @@
 # Nasa-Hackathon-International-Space-Station
 ## International Space Station 25th Anniversary Apps
-Developed by Aditya Rana and Team Jim Jam 420
+Developed by Team Jim Jam 420
 
 ## For the NASA International Space Apps Challenge 2025
 
@@ -10,7 +10,7 @@ Window to the World is a 3D interactive web experience built with Three.js, Blen
 The project helps users understand how astronauts view Earth from orbit and train for spacewalks on Earth through immersive visuals and real-time data.
 Made for the final submission of NASA International Space Apps Challenge 2025 https://www.spaceappschallenge.org/
 
-Features
+### Features
 
 * Real-time ISS Orbit: 3D Earth model with live ISS position tracking using NASA’s public API.
 
